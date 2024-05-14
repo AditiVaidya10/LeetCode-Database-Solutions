@@ -1,4 +1,4 @@
-**🔍 LeetCode Database Solutions with SQL 🔍**
+# **🔍 LeetCode Database Solutions with SQL 🔍**
 
 Welcome to the fascinating world of LeetCode Database Solutions using SQL! 🎉
 
